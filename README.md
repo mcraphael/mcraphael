@@ -12,10 +12,7 @@ Hi am Raph...Based in Ghana...Any problem that technology can solve am in...
 ![GitHub followers](https://img.shields.io/github/followers/mcraphael?style=social)
 ![](https://badges.pufler.dev/repos/mcraphael)
 ![](https://badges.pufler.dev/years/mcraphael)
-![](https://badges.pufler.dev/visits/mcraphael/mcraphael)
-  
-## Technologies
-
+![](https://badges.pufler.dev/visits/mcraphael/mcraphael)  
 
 ### Have some jokes :joy:
 ![Jokes Card](https://readme-jokes.vercel.app/api)
